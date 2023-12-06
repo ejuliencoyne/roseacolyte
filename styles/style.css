@@ -1,0 +1,33 @@
+html{
+	background-color: #F2B8C6;
+}
+
+body{
+	max-width: 800px;
+	padding: 20px 20px;
+	margin: 0 auto;
+}
+
+img{
+	padding: 10px 10px 10px 10px;
+	display: block;
+	margin: 0 auto;
+	width: 90%;
+	max-width: 600px;
+}
+
+a{
+
+}
+
+p {
+	font-size=16px;
+	font-family: "Comic Neue", cursive;
+	line-height: 1.5em;
+}
+
+h1{
+	font-size=40px;
+	font-family: "Comic Neue", cursive;
+	text-align: center;
+}
