@@ -16,19 +16,24 @@ img{
 	max-width: 600px;
 }
 
-a{
-
+div.gallery{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: white;
+	margin: 0 auto;
+	width: 95%;
+	max-width: 650px;
 }
 
 p {
-	font-size=16px;
+	font-size: 16px;
 	font-family: "Comic Neue", cursive;
 	line-height: 1.5em;
 	color: #553a45;
 }
 
 h1{
-	font-size=40px;
+	font-size: 40px;
 	font-family: "Comic Neue", cursive;
 	text-align: center;
 }
