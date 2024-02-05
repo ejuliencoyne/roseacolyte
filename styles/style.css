@@ -16,7 +16,7 @@ img{
 	max-width: 600px;
 }
 
-div.gallery{
+.gallery{
 	padding-top: 20px;
 	padding-bottom: 20px;
 	background-color: white;
@@ -25,11 +25,22 @@ div.gallery{
 	max-width: 650px;
 }
 
+.menu{
+	word-spacing: 20px;
+	text-align: center;
+	font-weight: bold;
+}
+
 p {
 	font-size: 16px;
 	font-family: "Comic Neue", cursive;
 	line-height: 1.5em;
 	color: #553a45;
+}
+
+a{
+	color: #75354f;
+	font-family: "Comic Neue", cursive;
 }
 
 h1{
