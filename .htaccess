@@ -1,2 +1,4 @@
 RewriteEngine on
 RewriteRule ^([a-zA-Z0-9_-]+)$ $1.html
+RewriteCond %{HTTP_HOST} ^roseacolyteceramics\.com
+RewriteRule (.*) https://www.roseacolyteceramics.com/$1 [R=301]
